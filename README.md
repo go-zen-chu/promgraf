@@ -1,6 +1,6 @@
 # promgraf
 
-prometheus &amp; grafana in local environment (mac, linux, ...) with docker
+prometheus & grafana in local environment (mac, linux, ...) with docker
 
 ## requirement
 
